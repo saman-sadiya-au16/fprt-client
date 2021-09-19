@@ -1,2 +1,2 @@
 
-export const baseUrl = `http://localhost:5000/api`;
+export const baseUrl = `https://fprt-server.herokuapp.com/api`;
